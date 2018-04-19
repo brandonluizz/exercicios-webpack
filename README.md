@@ -1,1 +1,1 @@
-exercicios_webpack
+Módulo do curso de React!
